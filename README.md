@@ -36,7 +36,7 @@ Once the platform is developed and deployed, users will be able to access it thr
 
 ## Team
 
-**Jana Abo el Anine-Team leader & market analyst**
+**Jana Abo el Anine-market analyst**
   - market insights
   - competitor analysis
   - buyer persona
