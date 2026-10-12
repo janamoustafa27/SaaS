@@ -36,8 +36,25 @@ Once the platform is developed and deployed, users will be able to access it thr
 
 ## Team
 
-Project contributors will be listed here.
+**Jana Abo el Anine-Team leader & market analyst**
+  - market insights
+  - competitor analysis
+  - buyer persona
+  - data collection 
 
+**Mahmoud kilany-social media strategist**
+   - social media pages creation & managment
+   - page optimization
+   - Ads campaign planing  
+
+**Bushra Hazem-content creator**
+   - content creation 
+  - content calendar & content strategy management
+
+**Nada el Helaly-graphic designer & voice over**
+  - visual design
+  - branding assets 
+ - voice over 
 ## License
 
 The project license will be determined based on the team's distribution and usage requirements.
