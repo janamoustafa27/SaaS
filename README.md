@@ -37,24 +37,26 @@ Once the platform is developed and deployed, users will be able to access it thr
 ## Team
 
 **Jana Abo el Anine-market analyst**
-  - market insights
-  - competitor analysis
-  - buyer persona
-  - data collection 
+  - social media pages creation & managment
+   - page optimization
+   -  branding assets
+   -  visual designs 
 
 **Mahmoud kilany-social media strategist**
-   - social media pages creation & managment
-   - page optimization
-   - Ads campaign planing  
+   - Ads campaign planing
+  - competitor analysis
+  - data collection
+  - visual designs  
 
 **Bushra Hazem-content creator**
    - content creation 
   - content calendar & content strategy management
+  - visual designs 
 
 **Nada el Helaly-graphic designer & voice over**
   - visual design
-  - branding assets 
- - voice over 
+  - market insights
+  - buyer persona
 ## License
 
 The project license will be determined based on the team's distribution and usage requirements.
