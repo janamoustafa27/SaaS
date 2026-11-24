@@ -20,7 +20,8 @@ Many Egyptian hotels, local businesses, and service providers struggle to reach 
 - Tourism and hospitality service providers.
 - Egyptian product sellers and manufacturers.
 - International tourists and customers interested in Egyptian products and services.
-Technologies Used
+  
+## Technologies Used
 The technologies will be selected according to the platform's development requirements. This section will include the programming languages, frameworks, website development tools, and other technologies used to build and manage the Kemet platform.
 
 ## How to Use
@@ -37,15 +38,15 @@ Users will be able to access Kemet through its website.
 - Introduce secure online payment options.
 - Develop partnerships with hotels, tourism companies, and local brands.
 - Expand Kemet's reach to become a leading platform for promoting Egyptian businesses globally.
-## Team
+## 👥Team
 
-**Jana Abo el Anine-market analyst**
+**Jana Abo el Anine-social media strategist t**
   - social media pages creation & managment
    - page optimization
    -  branding assets
    -  visual designs 
 
-**Mahmoud kilany-social media strategist**
+**Mahmoud kilany-marketing analysist**
    - Ads campaign planing
   - competitor analysis
   - data collection
@@ -56,14 +57,14 @@ Users will be able to access Kemet through its website.
   - content calendar & content strategy management
   - visual designs 
 
-**Nada el Helaly-graphic designer & voice over**
+**Nada el Helaly-graphic designer**
   - visual design
   - market insights
   - buyer persona
-## License
-
-The project license will be determined based on the team's distribution and usage requirements.
 
 ## follow us 
 📘 Facebook: https://www.facebook.com/kem.oraa4 
+
 📸 Instagram: https://www.instagram.com/kem.oraa/?hl=en
+## 🎯vision 
+ Making Egyptian businesses globally accessible and bringing Egypt closer to the world
