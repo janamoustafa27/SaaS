@@ -2,7 +2,7 @@
 🌍 Connecting Egyptian Businesses with the World.
 
 ## Overview
-Kemet is a digital platform designed to connect Egyptian hotels, service providers, and local businesses with international customers. The project aims to promote Egyptian products and services globally by providing businesses with their own online presence where they can showcase their offerings and reach a wider audience.
+Kemora is a digital platform designed to connect Egyptian hotels, service providers, and local businesses with international customers. The project aims to promote Egyptian products and services globally by providing businesses with their own online presence where they can showcase their offerings and reach a wider audience.
 
 ## Problem Statement
 Many Egyptian hotels, local businesses, and service providers struggle to reach international customers due to limited online visibility, language barriers, and a lack of effective digital marketing channels. Kemet aims to solve this problem by providing an accessible digital platform that helps Egyptian businesses present their products and services to foreigners, increase their visibility, and attract more potential customers.
@@ -40,7 +40,7 @@ Users will be able to access Kemet through its website.
 - Expand Kemet's reach to become a leading platform for promoting Egyptian businesses globally.
 ## 👥Team
 
-**Jana Abo el Anine-social media strategist t**
+**Jana Abo el Anine-social media strategist**
   - social media pages creation & managment
    - page optimization
    -  branding assets
