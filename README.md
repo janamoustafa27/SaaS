@@ -50,7 +50,8 @@ Users will be able to access Kemet through its website.
    - Ads campaign planing
   - competitor analysis
   - data collection
-  - visual designs  
+  - visual designs
+  - content calendar 
 
 **Bushra Hazem-content creator**
    - content creation 
